@@ -1,0 +1,7 @@
+{
+  "name": "SolScan Drone Analyzer",
+  "description": "High-precision solar panel defect detection and health assessment using drone imagery and AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
